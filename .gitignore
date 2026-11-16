@@ -1,0 +1,19 @@
+# secrets
+.env
+
+# backend
+backend/target/
+*.class
+
+# frontend
+frontend/node_modules/
+frontend/dist/
+
+# editors / OS
+.idea/
+.vscode/
+*.iml
+.settings/
+.classpath
+.project
+.DS_Store
